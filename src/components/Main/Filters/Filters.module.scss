@@ -6,44 +6,52 @@
   border-radius: 5px;
   padding: 20px 20px 38% 20px;
   display: table;
+  height: inherit;
 
   .filter{
     display: flex;
     justify-content: center;
-    // margin-bottom: 10px;
+    margin-bottom: 10px;
   }
 
   .abv{
     display: table-row;
     margin-bottom: 10px;
     height: 50px;
+    height: inherit;
+
     >label{
       display: table-cell;
+      height: inherit;
     }
   }
 }
 
 .dark{
-  border: 2px solid black;
+  border: 2px solid white;
   width: 30vw;
-  height: 100vh;
+  height: 70vh;
   margin: 20px 0 20px 10px;
   border-radius: 5px;
   padding: 20px 20px 38% 20px;
   display: table;
+  height: inherit;
 
   .filter{
     display: flex;
     justify-content: center;
-    // margin-bottom: 10px;
+    margin-bottom: 10px;
   }
 
   .abv{
     display: table-row;
     margin-bottom: 10px;
     height: 50px;
+    height: inherit;
+
     >label{
       display: table-cell;
+      height: inherit;
     }
   }
 }

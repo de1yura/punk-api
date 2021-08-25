@@ -18,6 +18,7 @@ const themeContext = useContext(ThemeContext);
   }
 
   return (
+    
     <div className={themeContext.isDarkTheme ? styles.dark : styles.filters}>
 
       <div className={styles.filter}>

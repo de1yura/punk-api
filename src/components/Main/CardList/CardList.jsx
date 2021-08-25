@@ -17,7 +17,7 @@ const beersJSX = filteredBeers.map((beer) => {
 
 
   return (
-    <div className= {themeContext.isDarkTheme ? styles.container : styles.container}>
+    <div className= {themeContext.isDarkTheme ? styles.darkContainer : styles.container}>
       {beersJSX}
     </div>
   )
