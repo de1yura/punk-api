@@ -1,0 +1,38 @@
+
+.dashboard{
+  display: flex;
+  background-color: #e9e9e9;
+}
+
+.dark{
+  display: flex;
+  background-color: #222;
+  color: white;
+}
+
+.searchbar{
+  padding: 0 10px;
+  width: 100%;
+  background-color: #e9e9e9;
+
+    >input{
+      height: 25px;
+      border-radius: 5px;
+      width: 100%;
+      padding: 5px;
+    }
+}
+
+.darkSearch{
+  padding: 0 10px;
+  width: 100%;
+  background-color: #222;
+
+    >input{
+      height: 25px;
+      border-radius: 5px;
+      border: white;
+      width: 100%;
+      padding: 5px;
+    }
+}
