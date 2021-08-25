@@ -1,5 +1,29 @@
-.container{
-  display: flex;
-  flex-direction: column;
+// .container{
+//   display: flex;
+//   flex-direction: column;
+//   width: 70vw;
+// }
+
+.container {
+  height: 80vh;
+  background: whitesmoke;
+  overflow: scroll;
   width: 70vw;
+  margin: 20px 10px;
+  padding: 2em;
+  font: 100%/1.4 serif;
+  border: 1px solid rgba(0,0,0,0.25)
+}
+
+.container::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+.container::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+.container::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
 }
