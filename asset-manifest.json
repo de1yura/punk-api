@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/punk-api/static/css/main.4f01d102.chunk.css",
+    "main.js": "/punk-api/static/js/main.248f7119.chunk.js",
+    "main.js.map": "/punk-api/static/js/main.248f7119.chunk.js.map",
+    "runtime-main.js": "/punk-api/static/js/runtime-main.b0afb95a.js",
+    "runtime-main.js.map": "/punk-api/static/js/runtime-main.b0afb95a.js.map",
+    "static/js/2.030379b7.chunk.js": "/punk-api/static/js/2.030379b7.chunk.js",
+    "static/js/2.030379b7.chunk.js.map": "/punk-api/static/js/2.030379b7.chunk.js.map",
+    "index.html": "/punk-api/index.html",
+    "precache-manifest.48fb7d172d3c82e375af3f1c8a5d7029.js": "/punk-api/precache-manifest.48fb7d172d3c82e375af3f1c8a5d7029.js",
+    "service-worker.js": "/punk-api/service-worker.js",
+    "static/css/main.4f01d102.chunk.css.map": "/punk-api/static/css/main.4f01d102.chunk.css.map",
+    "static/js/2.030379b7.chunk.js.LICENSE.txt": "/punk-api/static/js/2.030379b7.chunk.js.LICENSE.txt",
+    "static/media/brewdog.jpeg": "/punk-api/static/media/brewdog.8484de1b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0afb95a.js",
+    "static/js/2.030379b7.chunk.js",
+    "static/css/main.4f01d102.chunk.css",
+    "static/js/main.248f7119.chunk.js"
+  ]
+}
